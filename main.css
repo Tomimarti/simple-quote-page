@@ -1,0 +1,26 @@
+.free{
+  display: table;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+img{
+  width: 100%;
+}
+
+
+p{
+  text-align: center;
+  padding: 1rem;
+  vertical-align: middle;
+}
+.citation{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+.who{
+  font-family: 'Italianno', cursive;
+  font-size: 2rem;
+}
